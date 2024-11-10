@@ -13,7 +13,7 @@ export default function Navbar({ activeSection, darkMode, toggleDarkMode }: Navb
   return (
     <nav className="hidden lg:flex flex-col fixed h-screen w-64 bg-white dark:bg-gray-800 border-r border-gray-200 dark:border-gray-700 p-6">
       <div className="mb-12">
-        <h1 className="text-2xl font-bold text-gray-800 dark:text-white">Sarah Parker</h1>
+        <h1 className="text-2xl font-bold text-gray-800 dark:text-white">Humayan Al Rosid</h1>
         <p className="text-gray-600 dark:text-gray-400">WordPress Designer</p>
       </div>
       

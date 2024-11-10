@@ -2,16 +2,22 @@ import React from 'react';
 
 const educationData = [
   {
-    degree: 'Master of Design',
-    school: 'Design Institute of Technology',
-    year: '2020',
-    description: 'Specialized in Digital Design and Web Development'
+    degree: 'Wordpress Certification',
+    school: 'Template Monster',
+    year: '2024',
+    description: 'Specialized in Wordpress'
   },
   {
-    degree: 'Bachelor of Arts in Visual Communication',
-    school: 'Creative Arts University',
-    year: '2018',
-    description: 'Focus on UI/UX Design and Digital Media'
+    degree: 'Bachelor of Science in Mathematics',
+    school: 'University of Kalyani',
+    year: '2021 - 2024',
+    description: 'Specialized in Mathematics and Computer Science'
+  },
+  {
+    degree: 'Bachelor of Computer Application',
+    school: 'IGNOU',
+    year: '2024 - Present',
+    description: 'Focus on UI/UX, Website Design and Digital Media'
   }
 ];
 

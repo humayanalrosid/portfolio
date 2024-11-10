@@ -8,14 +8,14 @@ export default function About() {
       <div className="max-w-4xl mx-auto w-full">
         <div className="flex flex-col md:flex-row items-center gap-12">
           <img
-            src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80"
-            alt="Sarah Parker"
+            src="https://images.unsplash.com/photo-1631624224925-b7810331159b?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80"
+            alt="Humayan Al Rosid"
             className="w-64 h-64 object-cover rounded-full"
           />
           <div>
             <h2 className="text-3xl font-bold text-gray-800 dark:text-white mb-4">About Me</h2>
             <p className="text-gray-600 dark:text-gray-400 mb-6">
-              I'm a passionate WordPress designer with over 5 years of experience creating beautiful, 
+              I'm a passionate WordPress designer with over 1 years of experience creating beautiful, 
               functional websites. My approach combines clean design principles with cutting-edge 
               technology to deliver exceptional user experiences.
             </p>

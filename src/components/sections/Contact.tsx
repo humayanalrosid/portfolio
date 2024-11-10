@@ -51,10 +51,10 @@ export default function Contact() {
 
         <div className="flex justify-center space-x-6">
           {[
-            { Icon: Github, href: '#' },
-            { Icon: Linkedin, href: '#' },
-            { Icon: Instagram, href: '#' },
-            { Icon: Mail, href: '#' }
+            { Icon: Github, href: 'https://github.com/humayanalrosid/' },
+            { Icon: Linkedin, href: 'https://www.linkedin.com/in/humayanalrosid/' },
+            { Icon: Instagram, href: 'https://www.instagram.com/hmrosix/' },
+            { Icon: Mail, href: 'mailto:humayanalrosid3@gmail.com' }
           ].map(({ Icon, href }, index) => (
             <a
               key={index}
